@@ -57,6 +57,9 @@ body{
     color:rgb(217, 0, 255);
 }
 
+button, ::placeholder{
+font-size:larger;
+}
 
 .form-align{
     display:flex;
